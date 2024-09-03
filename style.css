@@ -1,0 +1,23 @@
+body{
+background: rgb(9,107,123);
+background: linear-gradient(90deg, rgb(69, 174, 190) 0%, rgb(85, 146, 184) 16%, rgb(73, 174, 211) 62%, rgba(171,107,226,1) 94%);
+}
+.heading{
+    font-size: 24px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+.copy_right_footer{
+    background-color: gray;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    line-height: 2;
+}
+canvas{
+    box-shadow: 5px 5px 5px gray;
+    border: 5px white;
+    border-radius:20px;
+}
